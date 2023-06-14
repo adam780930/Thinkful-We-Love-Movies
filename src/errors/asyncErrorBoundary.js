@@ -13,3 +13,6 @@ function asyncErrorBoundary(delegate, defaultStatus) {
   }
   
   module.exports = asyncErrorBoundary;
+
+
+  //module 39.7 and 39.8 aggregates with knex and js
